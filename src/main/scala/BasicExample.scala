@@ -1,3 +1,5 @@
+package main.scala
+
 /**
   * Scala基础
   * Created by dragon on 31/10/2019.

@@ -1,3 +1,5 @@
+package main.scala
+
 /**
   * 类
   * Created by dragon on 31/10/2019.
